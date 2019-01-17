@@ -1,0 +1,3 @@
+ExampleMod.init();
+
+myModule.publicFun();
